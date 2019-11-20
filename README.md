@@ -1,4 +1,4 @@
-[](https://github.com/nclsprsn/solution-architect-interview-handbook/workflows/build/badge.svg)
+[](https://github.com/nclsprsn/solution-architect-interview-handbook/workflows/Build/badge.svg)
 
 # Solution Architect Interview Handbook
 
