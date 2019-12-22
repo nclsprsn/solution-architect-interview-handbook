@@ -2,8 +2,12 @@
 
 # Solution Architect Interview Handbook
 
-## What is a Solution Architect?
+This handbook is composed of a set of questions for preparing a Solution Architect interview
 
+## Solution Architect
 
-
- 
+  * [General](questions/general.md)
+  * [Self](questions/self.md)
+  * [Businness](questions/business.md)
+  * [Communication](questions/communication.md)
+  * [Leadership & management](questions/leadership_management.md)
